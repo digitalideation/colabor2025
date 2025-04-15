@@ -6,11 +6,8 @@ Raum: 745 116 1. OG
 ## Instructors
 Hanna Züllig, Stefanie Bräuer, Yann Martins
 
-## Wiki 
-Wiki zum Colabor Creative Coding
-
 ## Live Agenda :calendar:
-Link zu Agenda (Check for Updates)
+<a href="https://docs.google.com/spreadsheets/d/16ZCqY39xTD9FFI1RdVbiJdFREi_elg6u_iRzr2toSsw/edit?gid=0#gid=0" target="_blank">Link zu Agenda (Check for Updates)</a>
 
 ## Teams :question: :speech_balloon:
 Join our Teams
@@ -27,3 +24,9 @@ In Sprint 1 we are inspired by the concepts and aesthetics of the broader field 
 In Sprint 2, we look at how digital devices are 'scripted' to encourage certain interactions while excluding or making others invisible. Technically, we could interact with our devices in many ways, but cultural norms and design choices limit these possibilities. We look at works and strategies by Lauren McCarthy, Yehwan Song, Rafaël Rozendaal and others and design a series of speculative, artistic, intervening settings in which we use critique, interaction, camera, gyroscope, microphone and machine learning to reflect on our interactions. <br/>
 In Sprint 3, each group immerses itself into a selected project from the previous two sprints and works on how it can be performed or presented at the final festival.<br/>
 For each sprint work groups alternate. The focus is on building the ability to prototype quickly to test and iteratively improve ideas, with an emphasis on experimentation. Collaboration is important here as well - coding as craft and as a caring activity. Basic programming concepts are taught practically and with reference to topics from art, design and computer aesthetics. Work is carried out in particular in the relevant technologies such as JavaScript and p5.js. The entire process is reflected upon in individual portfolios, documented and published on a web platform.<br/>
+
+## Criteria 
+Research and design process (exploration of the medium, originality of approaches, degree of reflection in process documentation)<br/>
+Autonomy in creative and technical implementation<br/>
+Creative and technical quality of the results<br/>
+Active participation (min. 80%), oral presentations, feedback to peers, collaboration and contributions<br/>
