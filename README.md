@@ -34,7 +34,7 @@ Active participation (min. 80%), oral presentations, feedback to peers, collabor
 ## Writing Assignment for Online Process Documentation and Festival
 Briefly present your results and give a brief written account of the decisions you made during Sprint 1. Which historical work did you choose as a starting point and why? What did you learn about this historical work through re-coding? This process reflection should accompany your online process gallery for Sprint 1 and be no longer than 400 words.<br/>
 
-Explain your result from Sprint 2 and then answer the following questions: What did I try that worked well for me? What would I do differently next time? This process reflection should accompany your online process gallery for Sprint 3 and should not be longer than 400 words.<br/>
+Explain your result from Sprint 2 and then answer the following questions: What did I try that worked well for me? What would I do differently next time? This process reflection should accompany your online process gallery for Sprint 2 and should not be longer than 400 words.<br/>
 
 The texts for the festival are based on the texts for the online process documentation. The festival texts are aimed at a broad audience, briefly describe the project and give an insight into the process. They should not be longer than 400 words.
 
