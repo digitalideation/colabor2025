@@ -32,8 +32,10 @@ For each sprint work groups alternate. The focus is on building the ability to p
 ## Deliverables 
 ### Sprint 1
 Re-Creation of an algorithmic artwork in p5.js 
+* Presentation 6th may
 ### Sprint 2
 Browser Extension around the topic 'Take a Break'
+* Presentation 19th may
 ### Sprint 3
 Create-Share-Show: your own menu, your own rules, your own setting. 
 You’ll share and present your work twice:
