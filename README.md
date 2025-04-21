@@ -1,16 +1,23 @@
 # +Colabor Creative Coding 2025 :boom: :fire:
 
-Zeiten: 9:15 – 11:50 und 12:50 – 15:10  <br/>
+Zeiten: 9:05 – 11:35 und 12:50 – 15:10  <br/>
 Raum: 745 116 1. OG
 
 ## Instructors
 Hanna Züllig, Stefanie Bräuer, Yann Martins
 
+## Wiki 
+<a href="https://github.com/digitalideation/colabor2025/wiki" target="_blank">Wiki zum Colabor Creative Coding, Links, Ressourcen</a>
+
 ## Live Agenda :calendar:
 <a href="https://docs.google.com/spreadsheets/d/16ZCqY39xTD9FFI1RdVbiJdFREi_elg6u_iRzr2toSsw/edit?gid=0#gid=0" target="_blank">Link zu Agenda (Check for Updates)</a>
 
-## Teams :question: :speech_balloon:
-Join our Teams
+## Salon
+<a href="https://www.hslu.ch/de-ch/design-film-kunst/studium/interdisziplinaere-module/colabor/salon-colabor-2025/" target="_blank">Salon Colabor 2025 Öffentliche Vorträge und Präsentationen </a>
+
+## Teams Channel  :question: :speech_balloon:
+<a href="https://teams.microsoft.com/l/team/19%3AMymgGANsAkjp-TIvlh7g-DAXkAUHKILFBHZ4YKxZfcs1%40thread.tacv2/conversations?groupId=34bdee73-574f-4173-93e3-55e9572b3e33&tenantId=75a34008-d7d1-4924-8e78-31fea86f6e68">Join our Teams Channel</a>
+
 
 ***
 ## Process Pages 
