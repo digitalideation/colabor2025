@@ -15,6 +15,9 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 ## Salon
 <a href="https://www.hslu.ch/de-ch/design-film-kunst/studium/interdisziplinaere-module/colabor/salon-colabor-2025/" target="_blank">Salon Colabor 2025 Öffentliche Vorträge und Präsentationen </a>
 
+## HUB Program
+<a href="https://lets-meet.org/events/colabor"> Preview Courses </a>
+
 ## Teams Channel  :question: :speech_balloon:
 <a href="https://teams.microsoft.com/l/team/19%3AMymgGANsAkjp-TIvlh7g-DAXkAUHKILFBHZ4YKxZfcs1%40thread.tacv2/conversations?groupId=34bdee73-574f-4173-93e3-55e9572b3e33&tenantId=75a34008-d7d1-4924-8e78-31fea86f6e68">Join our Teams Channel</a>
 
