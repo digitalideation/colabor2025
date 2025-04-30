@@ -1,7 +1,12 @@
 # RE-Code, RE-Create, Interactions 
 
 ## Exploring Interaction 
+I’d like you to think of interaction here not just as something that gets you from A to B, but as a form of active, bodily involvement. It makes a difference whether you’re using your nose, showing yourself through a camera, or simply engaging with your fingers and eyes. You become part of the work — not just as an image on screen, but physically, through your presence. So in this context, interaction is embodied, sensory, and participatory — not just a functional response.
+
 * Yehwan Song https://yhsong.com/ 
+* Camille Utterback https://camilleutterback.com/projects/text-rain/ 
+* Rafael Lozano-Hemmer https://www.lozano-hemmer.com/pulse_room.php 
+* Golan Levin https://www.flong.com/archive/projects/messa/index.html
 * Sougwen Chung https://sougwen.com/
 
 
