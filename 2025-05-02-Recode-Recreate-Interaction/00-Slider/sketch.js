@@ -1,3 +1,8 @@
+/*
++Colabor 2025 HSLU, Hanna Zuellig
+Slider
+Example shows how to create a slider, read its value and use it in a sketch
+*/
 let sizeSlider;// Declare the slider variable
 function setup() {
   createCanvas(windowWidth, windowHeight);

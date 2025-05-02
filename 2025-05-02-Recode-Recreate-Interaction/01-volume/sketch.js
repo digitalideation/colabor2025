@@ -1,3 +1,10 @@
+/* 
++Colabor 2025 HSLU, Hanna Zuellig
+Example Custom Audio Class for p5.js
+Custom class creates a button to start the microphone
+Custom class is to be embedded in index.html and put into library folder
+*/
+
 /**
  * Die Variable Mikrofon bindet eine Instanz der Klasse Mic
  * Die Variable micLevel nimmt die aktuelle Lautstärke zurück, von 0 bis 255

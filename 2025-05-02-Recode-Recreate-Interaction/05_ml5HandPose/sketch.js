@@ -1,4 +1,5 @@
 /*
++Colabor 2025 HSLU, Hanna Zuellig
 Example shows how to use ml5.js handpose model
 filter the right and left hand 
 take the index finger position
@@ -8,6 +9,9 @@ resize the rectangle based on the distance between the two index fingers
 Reference to the ml5.js library
 https://docs.ml5js.org/#/reference/handpose
 See reference for an ilustration how the keypoints are numbered
+
+ml5.js is to be embedded in index.html 
+
 */
 
 let handPose;

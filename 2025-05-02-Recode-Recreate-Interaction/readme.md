@@ -1,5 +1,11 @@
 # RE-Code, RE-Create, Interactions 
 
+## Program of the day
+Morning: getting to know ways of using sensordata to interact with your sketches. Thinking about interaction. 
+Exploring code. 
+<br/>
+Afternoon: Integration of some interaction in your project. Support and mentoring in small groups. 
+
 ## Exploring Interaction 
 I’d like you to think of interaction here not just as something that gets you from A to B, but as a form of active, bodily involvement. It makes a difference whether you’re using your nose, showing yourself through a camera, or simply engaging with your fingers and eyes. You become part of the work — not just as an image on screen, but physically, through your presence. So in this context, interaction is embodied, sensory, and participatory — not just a functional response.
 
@@ -43,4 +49,3 @@ function draw() {
 
 ```
 
-## AxiDraw 

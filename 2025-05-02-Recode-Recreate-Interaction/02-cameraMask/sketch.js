@@ -1,6 +1,8 @@
-// Thanks to  Pierre Rossel  
-// https://editor.p5js.org/prossel/sketches/48Epzo4SX
-// and to chatGPT for comments
+/*
++Colabor 2025 HSLU, Hanna Zuellig
+Example shows how to use the camera and create a custom mask for the video
+
+*/
 
 // Declare variables
 let pg; // Graphics buffer for mask

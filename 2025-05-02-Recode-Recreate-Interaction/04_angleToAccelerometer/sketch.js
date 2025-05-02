@@ -1,3 +1,10 @@
+/*
++Colabor 2025 HSLU, Hanna Zuellig
+Example shows how to use accelerometer data from mobile devive - if on a mobile device
+and mouse position data - if on a desktop device
+Custom file is to be embedded in index.html and put into library folder
+*/
+
 let xx = 0;
 let yy = 0;
 

@@ -1,3 +1,8 @@
+/*
++Colabor 2025 HSLU, Hanna Zuellig
+Example shows how to use the mouse position and create a rotation to the mouse
+*/
+
 let xx = 0;
 let yy = 0;
 
