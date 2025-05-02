@@ -15,7 +15,8 @@ let micLevel = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
-  /**
+  /** Hellooo!!
+   * hello back
    * Im setup einmalig Zugriff auf das Mikrofon
    */
   micInstance = new Mic("Start Mic"); //Parameter übergibt Beschriftung des Buttons
