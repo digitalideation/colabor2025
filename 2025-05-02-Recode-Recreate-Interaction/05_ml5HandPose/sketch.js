@@ -90,6 +90,6 @@ function gotHands(results) {
 function mousePressed() {
   // Stop detecting hands
   handPose.detectStop();
-  console.log('stopped');
+  //console.log('stopped');
   noLoop();
 }
