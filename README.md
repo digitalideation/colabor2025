@@ -34,7 +34,7 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 * <a href="">Eggli	Norda</a>
 * <a href="https://github.com/jithminifernando/Sprint-1">Fernando	Warnakulasuriya Jithmini Andriya</a>
 * <a href="https://github.com/dg29231/CO-Sprint-1">Grab	Diana</a>
-* Hovhannisyan	Nune
+* <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nune">Hovhannisyan	Nune</a>
 * <a href="https://github.com/elisee-kukulu/Colabor-Sprint-1">Kukulu	Elisee</a>
 * Miklos	Agnes
 * <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nik">Milcevski	Nik</a>
