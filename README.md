@@ -37,7 +37,7 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 * Hovhannisyan	Nune
 * <a href="https://github.com/elisee-kukulu/Colabor-Sprint-1">Kukulu	Elisee</a>
 * Miklos	Agnes
-* Milcevski	Nik
+* <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nik">Milcevski	Nik</a>
 * <a href="https://github.com/viv-99/Vivienne_Sprint_1">Reiser	Vivienne</a>
 * <a href="https://github.com/Mel-Scov/Collabor-Sprint-1">Scovell	Melissa</a>
 * <a href="https://github.com/mf-doodoo/creative_coding_f25.git">Stojkaj	Ardit</a>
