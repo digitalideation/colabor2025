@@ -28,10 +28,10 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 * Ambauen	Emma
 * <a href="https://github.com/purp-lebee/Laura_Sprint_1">Berchtold de Oliveira Camargo	Laura</a>
 * <a href="https://github.com/julia-sophie/Sprint1/tree/main">Bischof	Julia</a>
-* Biswas	Gian
+* <a href="https://github.com/ahbrother/Sprint1">Biswas	Gian</a>
 * <a href="https://github.com/EvaSanneke/IDA-Sprint-1">Brinksma	Eva Sanneke</a>
 * <a href="https://github.com/jfladas/colabor">Bucher	Lukas</a>
-* Eggli	Norda
+* <a href="">Eggli	Norda</a>
 * <a href="https://github.com/jithminifernando/Sprint-1">Fernando	Warnakulasuriya Jithmini Andriya</a>
 * <a href="https://github.com/dg29231/CO-Sprint-1">Grab	Diana</a>
 * Hovhannisyan	Nune
@@ -40,7 +40,7 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 * Milcevski	Nik
 * <a href="https://github.com/viv-99/Vivienne_Sprint_1">Reiser	Vivienne</a>
 * <a href="https://github.com/Mel-Scov/Collabor-Sprint-1">Scovell	Melissa</a>
-* Stojkaj	Ardit
+* <a href="https://github.com/mf-doodoo/creative_coding_f25.git">Stojkaj	Ardit</a>
 
 
 ## Module Content
