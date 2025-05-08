@@ -106,3 +106,15 @@ function neuesElement() {
 ```
 
 
+## Ein drittes Beispiel
+Elemente mit JavaScript löschen:<br/>
+
+```html
+<button class="specialbutton" onclick="loescheMich(this)">Lösche Element!</button>
+```
+
+```js
+function loescheMich(el) {
+    let parent=el.remove();
+}
+```

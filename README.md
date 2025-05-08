@@ -25,18 +25,18 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 *** 
 ## Repos Students 
 ### Sprint 1
-* Ambauen	Emma
+* <a href="https://github.com/Emmaamcoden/Sprint-1">Ambauen	Emma</a>
 * <a href="https://github.com/purp-lebee/Laura_Sprint_1">Berchtold de Oliveira Camargo	Laura</a>
 * <a href="https://github.com/julia-sophie/Sprint1/tree/main">Bischof	Julia</a>
 * <a href="https://github.com/ahbrother/Sprint1">Biswas	Gian</a>
 * <a href="https://github.com/EvaSanneke/IDA-Sprint-1">Brinksma	Eva Sanneke</a>
 * <a href="https://github.com/jfladas/colabor">Bucher	Lukas</a>
-* <a href="">Eggli	Norda</a>
+* <a href="https://github.com/Nonooee/CreativeCoding_Sprint1">Eggli	Norda</a>
 * <a href="https://github.com/jithminifernando/Sprint-1">Fernando	Warnakulasuriya Jithmini Andriya</a>
 * <a href="https://github.com/dg29231/CO-Sprint-1">Grab	Diana</a>
 * <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nune">Hovhannisyan	Nune</a>
 * <a href="https://github.com/elisee-kukulu/Colabor-Sprint-1">Kukulu	Elisee</a>
-* Miklos	Agnes
+* <a href="">Miklos	Agnes</a>
 * <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nik">Milcevski	Nik</a>
 * <a href="https://github.com/viv-99/Vivienne_Sprint_1">Reiser	Vivienne</a>
 * <a href="https://github.com/Mel-Scov/Collabor-Sprint-1">Scovell	Melissa</a>
