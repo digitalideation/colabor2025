@@ -6,6 +6,10 @@ let s = function (sketch){
         let c = sketch.createCanvas(sketch.windowWidth, h);
         sketch.pixelDensity(1);
         c.position(0, 0);
+        const canvas = c.canvas;
+        console.log(canvas);
+        canvas.style.position = "fixed"
+        canvas.style.pointerEvents = "none"
         
         
     }
