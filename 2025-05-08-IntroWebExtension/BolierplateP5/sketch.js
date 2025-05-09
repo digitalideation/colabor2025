@@ -15,6 +15,8 @@ let s = function (sketch){
     }
 
     sketch.draw = function(){
+        // use this to have transparent background
+        sketch.clear();
         sketch.fill(255,0,0);
         sketch.noStroke();
         sketch.ellipse(sketch.mouseX, sketch.mouseY, 20,20)
