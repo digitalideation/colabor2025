@@ -2,6 +2,8 @@
     font-family: 'DINDong';
     src: url('fonts/DINDong.woff2') format('woff2');
   }
+
+
 * {
    
     font-family: 'DINDong', monospace !important;

@@ -36,7 +36,7 @@ Hanna Züllig, Stefanie Bräuer, Yann Martins
 * <a href="https://github.com/dg29231/CO-Sprint-1">Grab	Diana</a>
 * <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nune">Hovhannisyan	Nune</a>
 * <a href="https://github.com/elisee-kukulu/Colabor-Sprint-1">Kukulu	Elisee</a>
-* <a href="">Miklos	Agnes</a>
+* <a href="https://github.com/KvietaKorvo/COLABOR-Sprint-1">Miklos	Agnes</a>
 * <a href="https://github.com/digitalideation/colabor2025/tree/main/Sprint1_Students/Nik">Milcevski	Nik</a>
 * <a href="https://github.com/viv-99/Vivienne_Sprint_1">Reiser	Vivienne</a>
 * <a href="https://github.com/Mel-Scov/Collabor-Sprint-1">Scovell	Melissa</a>
