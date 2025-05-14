@@ -91,12 +91,11 @@ let s = function (sketch) {
     }
 }
 ```
-You can then treat the variable `screenshot` as you would treat an image that you loaded from your directory. This means you could write: 
+You can then treat the variable `screenshot` as you would treat an image that you loaded from your directory. This means you could write something like this, to place the screenshot on the sketch canvas.  
 
 ```js
 let s = function (sketch) {
     let source;
-
 
     sketch.preload = function () {
         source = sketch.loadImage(screenshot);
@@ -108,11 +107,8 @@ let s = function (sketch) {
         c.position(0, 0);
         c.style('z-index', 200);
 
-        //you need to wait until the image is loaded
         if (typeof source === 'object') {
-            //place the screenshot on the canvas
-            sketch.image(source, 0, 0, sketch.width , sketch.height );
-            
+            sketch.image(source, 0, 0, sketch.width , sketch.height );      
         }
 
     }
