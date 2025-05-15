@@ -59,11 +59,6 @@ Quelle https://en.wikipedia.org/wiki/PostScript_fonts
   copy(pg, 7, 22, 10, 10, 35, 25, 50, 50);
 ```
 
-```js
-       let waveX = int(sin(frameCount * 0.05 + (i * j) * 0.02) *20);
-      let waveY = int(sin(frameCount * 0.05 + (i * j)* 0.05)*25);
-      
-```
 
 * Boilerplate createGraphics, export PNG, <a href="createGraphicsBegin.zip">Download</a>
 
