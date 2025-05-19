@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Rest",
+  "version": "1.0",
+  "description": "Persuades the user to rest",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["img/*.jpg"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

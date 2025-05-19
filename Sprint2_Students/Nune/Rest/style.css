@@ -1,0 +1,14 @@
+.rest-word {
+  display: inline-block;
+  font-size: 1rem;
+  animation: growRest 3s ease-out forwards;
+}
+
+@keyframes growRest {
+  0% {
+    font-size: 1rem;
+  }
+  100% {
+    font-size: 6rem; /* or go wild */
+  }
+}
