@@ -1,4 +1,5 @@
 let s = function (sketch){
+    
     sketch.setup = function(){
         //document.body.style.userSelect="none";
         let h = document.body.clientHeight;
@@ -12,8 +13,7 @@ let s = function (sketch){
         const canvas = c.canvas;
         console.log(canvas);
         canvas.style.position = "fixed"
-        canvas.style.pointerEvents = "none"
-        
+        canvas.style.pointerEvents = "none"   
         
     }
 
