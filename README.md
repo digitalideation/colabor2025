@@ -67,6 +67,34 @@ You’ll each be creating a documentation website.
 This site will bring together everything you’ve worked on: your experiments, your thoughts, and the outcomes of all three sprints.
 It’s not just a side task—it's part of your project. The website will be published, and it serves as a way to reflect on and present your process. The writing assignement (next chapter) is part of the documentation.
 
+#### Documentation How To:
+
+The documentation is where you can reflect on your work and make those reflection available to others. It is important to put such thought and processes in words, as it helps further sharpen ideas and uncover blind spots.
+
+- It is not necessary to document every single exercise or test that you did. Define some milestones and describe the exercises that made you reach them. For example if you made several sketches for sprint 1 document those who significantly heleped you understand p5.js.
+- Part of the documentation is also listing all of the used ressources. Therefore, webpages, wikipedia, stackoverflow, chatgpt prompts and responses, should be collected in you documentation.
+- Furthermore, showing code snippets [few lines of code, not the whole program] that that do significant work to achieve the result are very welcome in the documentation. Try to avoid putting `createCanvas(w,h)` or any other basic p5.js functions, rather bring the pieces of code that describe an interaction.
+- It is a very good practice to document your code. You do not need to describe it line by line. Try to define code blocks and describe what they do. Something like this:
+    ```javascript 
+    /**
+    * the following functions are used to access HTML 
+    * elements of a webpage
+    * the one below here searches for al paragraphs
+    * aka <p> elements
+    */
+    let p_el = document.querySelectorAll('p')
+    // this for loops iterate over all of the found html elements
+    for (let i = 0; i < p_el.length; i++) {
+        let element = p_el[i];
+        // console.log(element);
+        element.innerHTML = ""
+        element.textContent = "Cats are cute"
+    }
+    ```
+- If you used generated or borrowed code, make sure that it is marked in your code, but also describe what this code does and how you used it for your own purposes. For example if you have some generated or borrowed code that produces 1000 circles make sure to highlight and describe the code snippet that is related to how many circles are spawned.
+
+
+
 
 ## Writing Assignment for Online Process Documentation and Festival
 Briefly present your results and give a brief written account of the decisions you made during Sprint 1. Which historical work did you choose as a starting point and why? What did you learn about this historical work through re-coding? This process reflection should accompany your online process gallery for Sprint 1 and be no longer than 400 words.<br/>
